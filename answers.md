@@ -4,7 +4,7 @@ Lastname: Ferreira dos santos
 Firstname: Hugo
 
 ## 2.2
-command:
+command: docker run nodejsdocker
 
 ## 2.3
 question:
