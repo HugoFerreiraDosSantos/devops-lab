@@ -47,3 +47,6 @@ command: docker-compose up
 ## 3.4
 command: docker-compose up -d
 command: docker-compose logs my-service
+
+## 3.6
+Look at the docker-compose file
